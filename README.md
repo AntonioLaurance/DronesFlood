@@ -100,7 +100,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Developers
 
-Moises Adame Aguilar - [GitHub](https://github.com/MoisesAdame) - [Mail](a01660927@tec.mx)
+Moises Adame Aguilar - [GitHub](https://github.com/MoisesAdame) - [Mail](mailto:a01660927@tec.mx)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
