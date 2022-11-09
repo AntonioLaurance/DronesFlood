@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="fig/logo.png" alt="GSL Final Course - ITA & Tecnológico de Monterrey" width="100"></a>
+ <img src="fig/logo.png" alt="GSL Final Course - ITA & Tecnológico de Monterrey" width="500"></a>
 </p>
 
 <h2 align="center">GSL Final Course - ITA & Tecnológico de Monterrey</h2>
