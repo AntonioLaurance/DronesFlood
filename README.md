@@ -14,7 +14,7 @@
 </div>
 
 ## Motivation
-This project solve the problem of comunications where there are floods, throught of a temporary local area network (LAN) supported by drones. 
+This project solve the problem of comunications where there are floods helping to the victims to send a rescue message, throught of a temporary local area network (LAN) supported by drones. 
 
 
 ## Learning 
