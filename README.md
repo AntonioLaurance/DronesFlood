@@ -98,11 +98,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Developers
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Moises Adame Aguilar - [GitHub](https://github.com/MoisesAdame) - [Mail](a01660927@tec.mx)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,9 +108,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [A especial thanks to our teachers.]
-* []()
-* []()
+* A especial thanks to our teachers ❤️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
