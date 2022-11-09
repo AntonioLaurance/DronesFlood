@@ -21,3 +21,5 @@ This project solve the problem of comunications where there are floods helping t
 
 ## Learning 
 We will apply our knowledge about networks, linux, and communication protocols.
+
+## How install and run the application?
