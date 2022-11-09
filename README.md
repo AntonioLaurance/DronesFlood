@@ -13,6 +13,8 @@
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](/LICENSE)
 </div>
 
+This project is a part of Global Shared Learning (GSL) to help tp solve a problem using the technologies. 
+
 ## Motivation
 This project solve the problem of comunications where there are floods helping to the victims to send a rescue message, throught of a temporary local area network (LAN) supported by drones. 
 
