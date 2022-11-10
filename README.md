@@ -2,31 +2,18 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AntonioLaurance/DronesFlood">
-    <img src="fig/logo.png" alt="Logo" width="300" height="300">
-  </a>
-
-  <p align="center">
-    <em>"For every disaster there's a solution"</em>
-    <br />
-    <a href="https://github.com/AntonioLaurance/DronesFlood/tree/main/src"><strong>Explore the source code »</strong></a>
-    <br />
-    <br />
-  </p>
+    <a href="https://github.com/AntonioLaurance/DronesFlood">
+        <img src="fig/logo.png" alt="Logo" width="300" height="300">
+    </a>
+    <p align="center">
+        <em>"For every disaster there's a solution"</em>
+    </p>
+    <a href="https://github.com/AntonioLaurance/DronesFlood/tree/main/src">
+        <strong>Explore the source code »</strong>
+    </a>  
 </div>
 
 <div align="center">
@@ -45,8 +32,10 @@
     <summary>Table of Contents</summary>
     <ol>
         <li><a href="#motivation">Motivation</a></li>
-        <li><a href="#usage">Usage</a></li>
-        <li><a href="#roadmap">Roadmap</a></li>
+        <li><a href="#project-objectives">Motivation</a></li>
+        <li><a href="#learning-goals">Motivation</a></li>
+        <li><a href="#tools-used">Motivation</a></li>
+        <li><a href="#features">Roadmap</a></li>
         <li><a href="#license">License</a></li>
         <li><a href="#developers">Contact</a></li>
         <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -61,6 +50,20 @@ Write here.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- PROJECT'S OBJECTIVES -->
+## Project's Objectives
+
+Write here.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Learning Goals -->
+## Learning Goals
+
+Write here.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- PROJECT'S TOOLS -->
 ## Tools used
 [![forthebadge][badge-web]][badge-web]
@@ -69,19 +72,11 @@ Write here.
 
 <img src="https://forthebadge.com/images/badges/powered-by-coders-sweat.svg" width="300px">
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Write here.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
+<!-- Features -->
+## Features
 
 - [ ] Feature 1
 - [ ] Feature 2
@@ -95,12 +90,12 @@ Write here.
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [license](https://github.com/AntonioLaurance/DronesFlood/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- CONTACT -->
+<!--  DEVELOPERS & CONTACT-->
 ## Developers
 
 <div align="center">
