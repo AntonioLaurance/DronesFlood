@@ -32,10 +32,10 @@
     <summary>Table of Contents</summary>
     <ol>
         <li><a href="#motivation">Motivation</a></li>
-        <li><a href="#project-objectives">Motivation</a></li>
-        <li><a href="#learning-goals">Motivation</a></li>
-        <li><a href="#tools-used">Motivation</a></li>
-        <li><a href="#features">Roadmap</a></li>
+        <li><a href="#project-objectives">Project's Objectives</a></li>
+        <li><a href="#learning-goals">Learning Goals</a></li>
+        <li><a href="#tools-used">Tools used</a></li>
+        <li><a href="#features">Features</a></li>
         <li><a href="#license">License</a></li>
         <li><a href="#developers">Contact</a></li>
         <li><a href="#acknowledgments">Acknowledgments</a></li>
