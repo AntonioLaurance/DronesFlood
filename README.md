@@ -1,4 +1,3 @@
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
@@ -13,9 +12,6 @@
     </p>
     <a href="https://github.com/AntonioLaurance/DronesFlood/tree/main/src">
         <strong>Explore the source code »</strong>
-    </a>  
-</div>
-
 <div align="center">
 <p> 
 
@@ -46,7 +42,11 @@
 <!-- PROJECT'S MOTIVATION -->
 ## Motivation
 
-Write here.
+Since the Industrial Revolution, a process that took place around the 18th and 19th centuries, the global average temperature has had a rapid increase that, although sounds insignificant, has severe impacts on our environment and on the way in which the future will probably g on (if it does). This growth is a little more than 1 degree Celsius. In fact, this "insignificant" growth has the effect that the last few years have been considered the warmest in all of modern history.
+
+You might be asking. How will a warmer world affect me? Well, it's simple, that rising temperatures are worsening something we all fear, natural disasters, producing longer and hotter heat waves, worse and more frequent droughts, unimaginably powerful hurricanes, and of course, more intense and uncontrollable rains.
+
+In addition, this warmer climate has another collateral effect, this is the rise in sea level, a collateral effect that although it is mainly caused by global warming, its two main causes are the expansion of sea water (a phenomenon that occurs when it gets warm) and of course, the added water from melting ice caps and glaciers, thus, having a total average sea level rise since 1993 of 102.5 mm. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,6 +117,8 @@ Distributed under the MIT License. See [license](https://github.com/AntonioLaura
 * A especial thanks to our teachers ❤️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<div id="sealevels-widget-container"></div><script type="text/javascript" src="https://www.climatelevels.org/graphs/js/sealevels.php?theme=default&pid=2degreesinstitute"></script>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
