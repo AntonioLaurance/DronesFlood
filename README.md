@@ -70,7 +70,6 @@ Write here.
 
 <img src="https://forthebadge.com/images/badges/powered-by-coders-sweat.svg" width="300px"></img>
 
-<img src="https://forthebadge.com/images/badges/powered-by-coders-sweat.svg" width="300px"></img>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
