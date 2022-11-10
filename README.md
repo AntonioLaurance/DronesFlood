@@ -23,7 +23,7 @@
   <p align="center">
     <em>"For every disaster there's a solution"</em>
     <br />
-    <a href="https://github.com/AntonioLaurance/DronesFlood/tree/main/src"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AntonioLaurance/DronesFlood/tree/main/src"><strong>Explore the source code »</strong></a>
     <br />
     <br />
   </p>
@@ -103,11 +103,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
     <img src="fig/tecDevs.png" width="500">
 </div>
 
-- Moisés Adame Aguilar - [GitHub](https://github.com/MoisesAdame) - [Mail](mailto:a01660927@tec.mx)
 - Ricardo Campos Luna - [GitHub](https://github.com/AntonioLaurance) - [Mail](mailto:a01656898@tec.mx)
 - Noemí Abigail Curiel López - [GitHub](https://github.com/AbiCuriel) - [Mail](mailto:01655892@tec.mx)
+- Moisés Adame Aguilar - [GitHub](https://github.com/MoisesAdame) - [Mail](mailto:a01660927@tec.mx)
+- Juan Francisco Sánchez Sánchez - [GitHub](https://github.com/FranciscoSanchezz) - [Mail](mailto:a01656793@tec.mx)
 - Jorge Diego Martell Fernández - [GitHub](https://github.com/MoisesAdame) - [Mail](a01661436@tec.mx)
-- Juan Francisco Sánchez Sánchez - [GitHub](https://github.com/MoisesAdame) - [Mail](mailto:a01656793@tec.mx)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
