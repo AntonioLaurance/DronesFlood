@@ -12,6 +12,7 @@
     </p>
     <a href="https://github.com/AntonioLaurance/DronesFlood/tree/main/src">
         <strong>Explore the source code »</strong>
+</div>
 <div align="center">
 <p> 
 
@@ -117,8 +118,6 @@ Distributed under the MIT License. See [license](https://github.com/AntonioLaura
 * A especial thanks to our teachers ❤️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<div id="sealevels-widget-container"></div><script type="text/javascript" src="https://www.climatelevels.org/graphs/js/sealevels.php?theme=default&pid=2degreesinstitute"></script>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
