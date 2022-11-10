@@ -64,7 +64,7 @@ Write here.
 
 
 ## Tools used
-[![forthebadge][badge-web]](https://forthebadge.com)
+[![forthebadge][badge-web]][badge-web]
 
 [![made-with-python][badge-python]][python-url]
 
