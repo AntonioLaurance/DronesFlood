@@ -23,7 +23,7 @@
   <p align="center">
     <em>"For every disaster there's a solution"</em>
     <br />
-    <a href="https://github.com/AntonioLaurance/DronesFlood/src"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AntonioLaurance/DronesFlood/tree/main/src"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -40,12 +40,7 @@
 <details>
     <summary>Table of Contents</summary>
     <ol>
-        <li>
-            <a href="#about-the-project">Motivation</a>
-            <ul>
-                <li><a href="#tools-used">Built With</a></li>
-            </ul>
-        </li>
+        <li><a href="#motivation">Motivation</a></li>
         <li><a href="#usage">Usage</a></li>
         <li><a href="#roadmap">Roadmap</a></li>
         <li><a href="#license">License</a></li>
