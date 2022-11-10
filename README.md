@@ -64,9 +64,9 @@ Write here.
 
 
 ## Tools used
-[![forthebadge built-for-android](https://forthebadge.com/images/badges/built-for-android.svg)
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![forthebadge built-with-love] (https://forthebadge.com/images/badges/powered-by-coders-sweat.svg)
+[![built-for-android][badge-android]][badge-android]
+[![made-with-python][badge-python]][python-url]
+[![powered-coders-sweat][badge-coders-sweat]][badge-coders-sweat]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,3 +130,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-url]: https://github.com/AntonioLaurance/DronesFlood/issues
 [license-shield]: https://img.shields.io/github/license/AntonioLaurance/DronesFlood.svg?style=for-the-badge
 [license-url]: https://github.com/AntonioLaurance/DronesFlood/blob/master/LICENSE.txt
+[badge-android]: https://forthebadge.com/images/badges/built-for-android.svg
+[badge-android]: https://forthebadge.com/images/badges/built-for-android.svg
+[badge-python]: http://ForTheBadge.com/images/badges/made-with-python.svg
+[python-url]: https://www.python.org/
+[badge-coders-sweat]: https://forthebadge.com/images/badges/powered-by-coders-sweat.svg
