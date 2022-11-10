@@ -32,7 +32,7 @@
     <summary>Table of Contents</summary>
     <ol>
         <li><a href="#motivation">Motivation</a></li>
-        <li><a href="#project-objectives">Project's Objectives</a></li>
+        <li><a href="#project-objectives">Objectives</a></li>
         <li><a href="#learning-goals">Learning Goals</a></li>
         <li><a href="#especifications">Especifications</a></li>
         <li><a href="#features">Features</a></li>
@@ -51,7 +51,7 @@ Write here.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- PROJECT'S OBJECTIVES -->
-## Project's Objectives
+## Objectives
 
 Write here.
 
