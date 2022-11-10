@@ -29,12 +29,16 @@
   </p>
 </div>
 
+<div align="center">
+<p> 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+![Contributors][contributors-shield]
+![Forks][forks-shield]
+![Stargazers][stars-shield]
+![Issues][issues-shield]
+![MIT License][license-shield]
+</p>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
