@@ -43,7 +43,7 @@
         <li>
             <a href="#about-the-project">Motivation</a>
             <ul>
-                <li><a href="#built-with">Built With</a></li>
+                <li><a href="#tools-used">Built With</a></li>
             </ul>
         </li>
         <li><a href="#usage">Usage</a></li>
@@ -63,9 +63,10 @@ Write here.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Built With
-
+## Tools used
+[![forthebadge built-for-android](https://forthebadge.com/images/badges/built-for-android.svg)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge built-with-love] (https://forthebadge.com/images/badges/powered-by-coders-sweat.svg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,11 +101,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Developers
 
-Moisés Adame Aguilar - [GitHub](https://github.com/MoisesAdame) - [Mail](mailto:a01660927@tec.mx)
-Ricardo Campos Luna - [GitHub](https://github.com/AntonioLaurance) - [Mail](mailto:a01656898@tec.mx)
-Noemí Abigail Curiel López - [GitHub](https://github.com/AbiCuriel) - [Mail](mailto:01655892@tec.mx)
-Jorge Diego Martell Fernández - [GitHub](https://github.com/MoisesAdame) - [Mail](a01661436@tec.mx)
-Juan Francisco Sánchez Sánchez - [GitHub](https://github.com/MoisesAdame) - [Mail](mailto:a01656793@tec.mx)
+- Moisés Adame Aguilar - [GitHub](https://github.com/MoisesAdame) - [Mail](mailto:a01660927@tec.mx)
+- Ricardo Campos Luna - [GitHub](https://github.com/AntonioLaurance) - [Mail](mailto:a01656898@tec.mx)
+- Noemí Abigail Curiel López - [GitHub](https://github.com/AbiCuriel) - [Mail](mailto:01655892@tec.mx)
+- Jorge Diego Martell Fernández - [GitHub](https://github.com/MoisesAdame) - [Mail](a01661436@tec.mx)
+- Juan Francisco Sánchez Sánchez - [GitHub](https://github.com/MoisesAdame) - [Mail](mailto:a01656793@tec.mx)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
