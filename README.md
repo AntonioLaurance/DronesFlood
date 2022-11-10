@@ -44,7 +44,7 @@
         <li><a href="#usage">Usage</a></li>
         <li><a href="#roadmap">Roadmap</a></li>
         <li><a href="#license">License</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="#developers">Contact</a></li>
         <li><a href="#acknowledgments">Acknowledgments</a></li>
     </ol>
 </details>
@@ -57,13 +57,13 @@ Write here.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- PROJECT'S TOOLS -->
 ## Tools used
 [![forthebadge][badge-web]][badge-web]
 
 [![made-with-python][badge-python]][python-url]
 
-<img src="https://forthebadge.com/images/badges/powered-by-coders-sweat.svg" width="300px"></img>
+<img src="https://forthebadge.com/images/badges/powered-by-coders-sweat.svg" width="300px">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -98,6 +98,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Developers
+
+<div align="center">
+    <img src="fig/tecDevs.png" width="500">
+</div>
 
 - Moisés Adame Aguilar - [GitHub](https://github.com/MoisesAdame) - [Mail](mailto:a01660927@tec.mx)
 - Ricardo Campos Luna - [GitHub](https://github.com/AntonioLaurance) - [Mail](mailto:a01656898@tec.mx)
