@@ -47,7 +47,9 @@ Since the Industrial Revolution, a process that took place around the 18th and 1
 
 You might be asking. How will a warmer world affect me? Well, it's simple, that rising temperatures are worsening something we all fear, natural disasters, producing longer and hotter heat waves, worse and more frequent droughts, unimaginably powerful hurricanes, and of course, more intense and uncontrollable rains.
 
-In addition, this warmer climate has another collateral effect, this is the rise in sea level, a collateral effect that although it is mainly caused by global warming, its two main causes are the expansion of sea water (a phenomenon that occurs when it gets warm) and of course, the added water from melting ice caps and glaciers, thus, having a total average sea level rise since 1993 of [102.5 mm](https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.). 
+In addition, this warmer climate has another collateral effect, this is the rise in sea level, a collateral effect that although it is mainly caused by global warming, its two main causes are the expansion of sea water (a phenomenon that occurs when it gets warm) and of course, the added water from melting ice caps and glaciers, thus, having a total average sea level rise since 1993 of [102.5 mm](https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.).
+    
+This is the main reason for developing a drone network that can provide internet access to people affected by floods so that they can communicate with emergency services. This mainly solves the problem of communication shortages when a disaster of this type occurs and that in remote places is where it suffers the most. In addition, by doing this, many more lives could be saved.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
