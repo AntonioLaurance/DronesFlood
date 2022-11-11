@@ -57,12 +57,31 @@ You might be wondering: How will a warmer world affect me? Well, it's simple. Ri
     </p>
 </div>
 
-
 In addition, this warmer climate has another collateral effect, which is the rise in sea level, an additional consequence that although is mainly caused by global warming, its two main causes are the expansion of sea water (a phenomenon that occurs when it gets warm) and of course, the added water from melting ice caps and glaciers, thus, having a total average sea level rise since 1993 of [102.5 mm](https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.).
+
+<div align="center">
+    <img src="fig/seaLevel.png" width="500">
+</div>
+
+<div align="center">
+    <p>
+        <strong>Figue 2. </strong>Sea level rise in the Last few decades(<a href="https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.">NASA</a>)
+    </p>
+</div>
     
 Every year, these natural disasters devastate millions of people, numerous communities, and even entire societies worldwide. Evidently, the consequences of diasters are bigger when talking about countries in current development. Taking this into consideration, both [Mexico and Brazil](https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/fellow_graduate_student_working_papers/043.pdf) are regions that should prioritize the creation and optimization of protocols, systems and even engineering solutions as an imperative prevention for any unconventional event, as these are countries that lie within  one of the world’s most active seismic regions; prone to constant droughts and in the path of hurricanes and tropical storms originating in the Caribbean Sea, Atlantic and Pacific Oceans. Indeed, this wide geographic exposure renders that a high share of the country’s population may be at hazard risk.
     
 Hence, it is highly important to develop a effective network that can provide internet access to people affected by any disaster so that they can communicate with emergency services even in the case that a communication shortage occurs, increase survival rates after simmilar incidents, quickly mitigate dangers to a region's population, and even help prevent greater catastrophes. Thus, the engineering of a proposal that incorporates a holistic approach and integral implementation of the Internet of Things as an advanced automation and analytics system that mainly incorporates drone networking, electronic and hardware connections, and cloud messaging through brokers and servers become fundamental to the construction of a robust, complete and resilient telecommunication infrastructure capable of sustaining emergency services in natural incidents. As a consequence, the motivation to work in a diverse group of engineers that aim to tackle one of the most frequent and important challenges of Latin American societies grows and fuels the technological development required to innovate and connect humanity in the most needed of times, once again demonstrating our endurance, strength, empathy and willingness to thrive.
+
+<div align="center">
+    <img src="fig/droneFleet.png" width="500">
+</div>
+
+<div align="center">
+    <p>
+        <strong>Figue 3. </strong>Drone fleet to provide internet access for affected areas.(<a href="https://dronedj.com/2021/10/07/blockchain-tech-may-thwart-hacks-of-automated-drone-fleets/">Crumley, B.</a>)
+    </p>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,7 +167,6 @@ Distributed under the GNU General Public License (GPL). See [license](https://gi
 * A special thanks to our teachers ❤️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
