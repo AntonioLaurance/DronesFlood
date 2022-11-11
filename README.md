@@ -20,7 +20,7 @@
 ![Forks][forks-shield]
 ![Stargazers][stars-shield]
 ![Issues][issues-shield]
-![MIT License][license-shield]
+[![GPL License][license-shield]][license-url]
 </p>
 </div>
 
@@ -161,7 +161,7 @@ Distributed under the GNU General Public License (GPL). See [license](https://gi
 [issues-shield]: https://img.shields.io/github/issues/AntonioLaurance/DronesFlood.svg?style=for-the-badge
 [issues-url]: https://github.com/AntonioLaurance/DronesFlood/issues
 [license-shield]: https://img.shields.io/github/license/AntonioLaurance/DronesFlood.svg?style=for-the-badge
-[license-url]: https://github.com/AntonioLaurance/DronesFlood/blob/master/LICENSE.txt
+[license-url]: https://github.com/AntonioLaurance/DronesFlood/blob/main/LICENSE
 [badge-python]: http://ForTheBadge.com/images/badges/made-with-python.svg
 [python-url]: https://www.python.org/
 [badge-coders-sweat]: https://forthebadge.com/images/badges/powered-by-coders-sweat.svg
