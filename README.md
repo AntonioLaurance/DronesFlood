@@ -80,6 +80,7 @@ Write here.
 [![made-with-python][badge-python]][python-url]
 
 <img src="https://forthebadge.com/images/badges/powered-by-coders-sweat.svg" width="300px">
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" width="300px">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
