@@ -53,7 +53,7 @@ You might be wondering: How will a warmer world affect me? Well, it's simple. Ri
 
 <div align="center">
     <p>
-        <strong>Figue 1. </strong>Flooding in Monterrey, Mexico (<a href="https://www.bbc.com/news/world-latin-america-53553633">BBC News</a>)
+        <strong>Figure 1. </strong>Flooding in Monterrey, Mexico (<a href="https://www.bbc.com/news/world-latin-america-53553633">BBC News</a>)
     </p>
 </div>
 
@@ -65,7 +65,7 @@ In addition, this warmer climate has another collateral effect, which is the ris
 
 <div align="center">
     <p>
-        <strong>Figue 2. </strong>Sea level rise in the last few decades. (<a href="https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.">NASA</a>)
+        <strong>Figure 2. </strong>Sea level rise in the last few decades. (<a href="https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.">NASA</a>)
     </p>
 </div>
     
@@ -79,7 +79,7 @@ Hence, it is highly important to develop a effective network that can provide in
 
 <div align="center">
     <p>
-        <strong>Figue 3. </strong>Drone fleet to provide internet access for affected areas. (<a href="https://dronedj.com/2021/10/07/blockchain-tech-may-thwart-hacks-of-automated-drone-fleets/">Crumley, B.</a>)
+        <strong>Figure 3. </strong>Drone fleet to provide internet access for affected areas. (<a href="https://dronedj.com/2021/10/07/blockchain-tech-may-thwart-hacks-of-automated-drone-fleets/">Crumley, B.</a>)
     </p>
 </div>
 
@@ -96,7 +96,7 @@ Taking into account what was said above, and after analyzing the various existin
 
 <div align="center">
     <p>
-        <strong>Figue 4. </strong>Internet of Things Architecture Implemented. (<a href="https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/field-cloud-edge-gateways">Microsoft</a>)
+        <strong>Figure 4. </strong>Internet of Things Architecture Implemented. (<a href="https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/field-cloud-edge-gateways">Microsoft</a>)
     </p>
 </div>
 
@@ -110,7 +110,7 @@ For this implementation, as a team of developers, we will jointly build a native
 
 <div align="center">
     <p>
-        <strong>Figue 5. </strong>User interface of android application. (<a href="https://github.com/kabartsjc/gsl-iot-2022/blob/main/SOLUTION_DESCRIPTION.md">Barreto, A.</a>)
+        <strong>Figure 5. </strong>User interface of android application. (<a href="https://github.com/kabartsjc/gsl-iot-2022/blob/main/SOLUTION_DESCRIPTION.md">Barreto, A.</a>)
     </p>
 </div>
 
@@ -124,7 +124,7 @@ The backbone of this project is the IoT protocol the solution relies on, given t
 
 <div align="center">
     <p>
-        <strong>Figue 6. </strong>MQTT Protocol example. (<a href="https://www.paessler.com/es/it-explained/mqtt">Paessler</a>)
+        <strong>Figure 6. </strong>MQTT Protocol example. (<a href="https://www.paessler.com/es/it-explained/mqtt">Paessler</a>)
     </p>
 </div>
 
