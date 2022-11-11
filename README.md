@@ -32,7 +32,7 @@
         <li><a href="#objectives">Objectives</a></li>
         <li><a href="#learning-goals">Learning Goals</a></li>
         <li><a href="#especifications">Especifications</a></li>
-        <li><a href="#features">Features</a></li>
+        <li><a href="#requirement-features">Requirement Features</a></li>
         <li><a href="#license">License</a></li>
         <li><a href="#developers">Developers</a></li>
         <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -106,9 +106,8 @@ Finally, to fully test the capabilities of our solution, we have decided to impl
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- Features -->
-## Requirement features
+## Requirement Features
 In order to achieve the best results in the implementation of this challenge's solution, several characteristics and requirements need to be considered, including:
 
 - The development of a system of digital devices based on 5 microcontrollers, interconnected in a data network and programmed for the exchange of information through the MQTT communication protocol.
