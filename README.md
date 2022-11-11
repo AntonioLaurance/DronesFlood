@@ -51,6 +51,14 @@ In addition, this warmer climate has another collateral effect, this is the rise
     
 This is the main reason for developing a drone network that can provide internet access to people affected by floods so that they can communicate with emergency services. This mainly solves the problem of communication shortages when a disaster of this type occurs and that in remote places is where it suffers the most. In addition, by doing this, many more lives could be saved.
 
+<br />
+<div align="center">
+    <a href="https://github.com/AntonioLaurance/DronesFlood">
+        <img src="fig/Dron_Internet.jpg" alt="Logo" width="300" height="300">
+    </a>
+    <p align="center">
+        <em>Ejemplo de un dron que da internet</em>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- PROJECT'S OBJECTIVES -->
