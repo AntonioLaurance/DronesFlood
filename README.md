@@ -47,6 +47,17 @@ Since the Industrial Revolution, a process that took place around the 18th and 1
 
 You might be wondering: How will a warmer world affect me? Well, it's simple. Rising temperatures are worsening something we all fear: natural disasters, which at the same tiem longer and hotter heat waves, worse and more frequent droughts, unimaginably powerful hurricanes, and of course, more intense and uncontrollable rains.
 
+<div align="center">
+    <img src="fig/monterreyFlood.png" width="300">
+</div>
+
+<div align="center">
+    <p>
+        <strong>Figue 1.</strong>Flooding in Monterrey, México (<a href="https://www.bbc.com/news/world-latin-america-53553633">BBC News</a>)
+    </p>
+</div>
+
+
 In addition, this warmer climate has another collateral effect, which is the rise in sea level, an additional consequence that although is mainly caused by global warming, its two main causes are the expansion of sea water (a phenomenon that occurs when it gets warm) and of course, the added water from melting ice caps and glaciers, thus, having a total average sea level rise since 1993 of [102.5 mm](https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.).
     
 Every year, these natural disasters devastate millions of people, numerous communities, and even entire societies worldwide. Evidently, the consequences of diasters are bigger when talking about countries in current development. Taking this into consideration, both [Mexico and Brazil](https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/fellow_graduate_student_working_papers/043.pdf) are regions that should prioritize the creation and optimization of protocols, systems and even engineering solutions as an imperative prevention for any unconventional event, as these are countries that lie within  one of the world’s most active seismic regions; prone to constant droughts and in the path of hurricanes and tropical storms originating in the Caribbean Sea, Atlantic and Pacific Oceans. Indeed, this wide geographic exposure renders that a high share of the country’s population may be at hazard risk.
@@ -111,7 +122,7 @@ Analysis of requirements, planning and administration of the execution process o
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [license](https://github.com/AntonioLaurance/DronesFlood/blob/main/LICENSE) for more information.
+Distributed under the GNU General Public License (GPL). See [license](https://github.com/AntonioLaurance/DronesFlood/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
