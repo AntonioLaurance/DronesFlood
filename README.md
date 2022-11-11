@@ -65,7 +65,11 @@ Write here.
 <!-- Learning Goals -->
 ## Learning Goals
 
-Write here.
+- Design, elaborate and analyse digital systems based upon the Internet of Things networks and environments.
+- Design and develop databases for the analysis of real-life applications of hard data.
+- Implement the management of a computer system's resources as a fundament for the development of engineering projects.
+- Incorporate principles of Interactive Design to optimize engineering solutions.
+- Build up expertise for the correct and integral Project and Process Management requirements to sustain technical developments.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
