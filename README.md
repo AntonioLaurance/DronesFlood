@@ -48,12 +48,12 @@ Since the Industrial Revolution, a process that took place around the 18th and 1
 You might be wondering: How will a warmer world affect me? Well, it's simple. Rising temperatures are worsening something we all fear: natural disasters, which at the same tiem longer and hotter heat waves, worse and more frequent droughts, unimaginably powerful hurricanes, and of course, more intense and uncontrollable rains.
 
 <div align="center">
-    <img src="fig/monterreyFlood.png" width="300">
+    <img src="fig/monterreyFlood.png" width="500">
 </div>
 
 <div align="center">
     <p>
-        <strong>Figue 1.</strong>Flooding in Monterrey, México (<a href="https://www.bbc.com/news/world-latin-america-53553633">BBC News</a>)
+        <strong>Figue 1. </strong>Flooding in Monterrey, México (<a href="https://www.bbc.com/news/world-latin-america-53553633">BBC News</a>)
     </p>
 </div>
 
