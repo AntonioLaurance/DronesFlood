@@ -128,6 +128,16 @@ Once the communication between devices is resolved, it is important to consider 
 
 Finally, to fully test the capabilities of our solution, we have decided to implement both emulated and the real nodes to generate an then process, store and display their information. This process will use the Mininet-WiFi Network emulator, as well as some Python scripts that will jointly serve as nodes that emulate real people sharing their location, status, and a message. And then, we will use a real node based on an Android phone using the developed mobile application, which, like the emulated nodes, will send its location, status and a short message.
 
+<div align="center">
+    <img src="fig/droneNetwork.jpg" width="500">
+</div>
+
+<div align="center">
+    <p>
+        <strong>Figure 7. </strong>Implementation of the drone network using real and virtual nodes. (<a href="https://www.paessler.com/es/it-explained/mqtt">Paessler</a>)
+    </p>
+</div>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Learning Goals -->
