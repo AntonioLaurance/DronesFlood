@@ -119,7 +119,7 @@ Distributed under the MIT License. See [license](https://github.com/AntonioLaura
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* A especial thanks to our teachers ❤️.
+* A special thanks to our teachers ❤️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
