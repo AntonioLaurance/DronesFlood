@@ -105,7 +105,7 @@ Taking into account what was said above, and after analyzing the various existin
 For this implementation, as a team of developers, we will jointly build a native Android transaction-based mobile application capable of obtaining information from the victims of the flood, such as the severity, a short message describing their situation and, of course, their exact location. Of course, this is where the drones take place, because as we can all conclude, Internet access will be very poor or impossible, drones being a method of providing a few minutes of Internet access to know where the victims are and how serious their condition is.
 
 <div align="center">
-    <img src="fig/uiAndoid.png" width="500">
+    <img src="fig/uiAndroid.png" width="500">
 </div>
 
 <div align="center">
@@ -119,7 +119,7 @@ For this implementation, as a team of developers, we will jointly build a native
 The backbone of this project is the IoT protocol the solution relies on, given that, a very limited quantity of resources is at reach of the victims. In this case, the protocol used is the MQTT Broker, a protocol that is very lightweight and uses almost no energy at all, capable of machine to machine (M2M) communications neccesary for this context. In addittion, to implement this, as a team, we decided to use the open-source implementation of this protocol whose name is Eclipse-Mosquitto, an implementation capable of connecting huge servers and limited smartphones, which allows us to use various network configurations depending on our necesities, being useful in this case, a bridge mode, which distiguishes from a local broker (drones) and a central broker (the server/virtual machine).
 
 <div align="center">
-    <img src="fig/uiAndoid.png" width="500">
+    <img src="fig/mqttProtocol.png" width="500">
 </div>
 
 <div align="center">
