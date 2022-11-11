@@ -53,7 +53,7 @@ You might be wondering: How will a warmer world affect me? Well, it's simple. Ri
 
 <div align="center">
     <p>
-        <strong>Figue 1. </strong>Flooding in Monterrey, México (<a href="https://www.bbc.com/news/world-latin-america-53553633">BBC News</a>)
+        <strong>Figue 1. </strong>Flooding in Monterrey, Mexico (<a href="https://www.bbc.com/news/world-latin-america-53553633">BBC News</a>)
     </p>
 </div>
 
@@ -65,7 +65,7 @@ In addition, this warmer climate has another collateral effect, which is the ris
 
 <div align="center">
     <p>
-        <strong>Figue 2. </strong>Sea level rise in the Last few decades. (<a href="https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.">NASA</a>)
+        <strong>Figue 2. </strong>Sea level rise in the last few decades. (<a href="https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.">NASA</a>)
     </p>
 </div>
     
@@ -90,9 +90,45 @@ Hence, it is highly important to develop a effective network that can provide in
 
 Taking into account what was said above, and after analyzing the various existing alternatives to carry out this solution, we have opted for its implementation based on the multistage architecture of the Internet of Things (IoT), in which it is considered the most efficient way, first, the collection of data, and then, the processing of this data and decision making based on a model which consists of 4 stages. These 4 stages are sensors and actuators, IoT Gateway, Edge IT, Cloud, which respectively obtain, react, aggregate, pre-process and process data extremely efficiently.
 
+<div align="center">
+    <img src="fig/iotArchitecture.png" width="500">
+</div>
+
+<div align="center">
+    <p>
+        <strong>Figue 4. </strong>Internet of Things Architecture Implemented. (<a href="https://learn.microsoft.com/en-us/azure/architecture/example-scenario/iot/field-cloud-edge-gateways">Microsoft</a>)
+    </p>
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 For this implementation, as a team of developers, we will jointly build a native Android transaction-based mobile application capable of obtaining information from the victims of the flood, such as the severity, a short message describing their situation and, of course, their exact location. Of course, this is where the drones take place, because as we can all conclude, Internet access will be very poor or impossible, drones being a method of providing a few minutes of Internet access to know where the victims are and how serious their condition is.
 
-The backbone of this is the IoT protocol the solution relies on, given that, a very limited quantity of resources is at reach of the victims. In this case, the protocol used is the MQTT Broker, a protocol that is very lightweight and uses almost no energy at all, capable of machine to machine (M2M) communications neccesary for this context. In addittion, to implement this, as a team, we decided to use the open-source implementation of this protocol whose name is Eclipse-Mosquitto, an implementation capable of connecting huge servers and limited smartphones, which allows us to use various network configurations depending on our necesities, being useful in this case, a bridge mode, which distiguishes from a local broker (drones) and a central broker (the server/virtual machine).
+<div align="center">
+    <img src="fig/uiAndoid.png" width="500">
+</div>
+
+<div align="center">
+    <p>
+        <strong>Figue 5. </strong>User interface of android application. (<a href="https://github.com/kabartsjc/gsl-iot-2022/blob/main/SOLUTION_DESCRIPTION.md">Barreto, A.</a>)
+    </p>
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+The backbone of this project is the IoT protocol the solution relies on, given that, a very limited quantity of resources is at reach of the victims. In this case, the protocol used is the MQTT Broker, a protocol that is very lightweight and uses almost no energy at all, capable of machine to machine (M2M) communications neccesary for this context. In addittion, to implement this, as a team, we decided to use the open-source implementation of this protocol whose name is Eclipse-Mosquitto, an implementation capable of connecting huge servers and limited smartphones, which allows us to use various network configurations depending on our necesities, being useful in this case, a bridge mode, which distiguishes from a local broker (drones) and a central broker (the server/virtual machine).
+
+<div align="center">
+    <img src="fig/uiAndoid.png" width="500">
+</div>
+
+<div align="center">
+    <p>
+        <strong>Figue 6. </strong>MQTT Protocol example. (<a href="https://www.paessler.com/es/it-explained/mqtt">Paessler</a>)
+    </p>
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Once the communication between devices is resolved, it is important to consider how the data will be stored and then managed, in order to give the victims the best possible solution to their complicated situation. Regarding data storage, we will design and implement a relational database using the well-known MySQL DBMS that will receive the information generated by the victims through their smartphones, which, after being properly formatted, will be stored. Once this step is completed successfully, the database will be connected to a web application that will function as a dashboard that displays all the relevant information to the rescue forces to facilitate the deployment of a successful strategy capable of helping those in need the the most.
 
@@ -156,7 +192,7 @@ Distributed under the GNU General Public License (GPL). See [license](https://gi
 - Noemí Abigail Curiel López - [GitHub](https://github.com/AbiCuriel) - [Mail](mailto:01655892@tec.mx)
 - Moisés Adame Aguilar - [GitHub](https://github.com/MoisesAdame) - [Mail](mailto:a01660927@tec.mx)
 - Juan Francisco Sánchez Sánchez - [GitHub](https://github.com/FranciscoSanchezz) - [Mail](mailto:a01656793@tec.mx)
-- Jorge Diego Martell Fernández - [GitHub](https://github.com/MoisesAdame) - [Mail](a01661436@tec.mx)
+- Jorge Diego Martell Fernández - [GitHub](https://github.com/A01661436) - [Mail](a01661436@tec.mx)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
