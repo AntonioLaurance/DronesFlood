@@ -65,7 +65,7 @@ In addition, this warmer climate has another collateral effect, which is the ris
 
 <div align="center">
     <p>
-        <strong>Figue 2. </strong>Sea level rise in the Last few decades(<a href="https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.">NASA</a>)
+        <strong>Figue 2. </strong>Sea level rise in the Last few decades. (<a href="https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.">NASA</a>)
     </p>
 </div>
     
@@ -79,7 +79,7 @@ Hence, it is highly important to develop a effective network that can provide in
 
 <div align="center">
     <p>
-        <strong>Figue 3. </strong>Drone fleet to provide internet access for affected areas.(<a href="https://dronedj.com/2021/10/07/blockchain-tech-may-thwart-hacks-of-automated-drone-fleets/">Crumley, B.</a>)
+        <strong>Figue 3. </strong>Drone fleet to provide internet access for affected areas. (<a href="https://dronedj.com/2021/10/07/blockchain-tech-may-thwart-hacks-of-automated-drone-fleets/">Crumley, B.</a>)
     </p>
 </div>
 
