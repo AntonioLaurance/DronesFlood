@@ -101,7 +101,7 @@ Finally, to fully test the capabilities of our solution, we have decided to impl
 In order to achieve the best results in the implementation of this challenge's solution, several characteristics and requirements need to be considered, including:
 
 - The development of a system of digital devices based on 5 microcontrollers, interconnected in a data network and programmed for the exchange of information through the MQTT communication protocol.
-- The design and implementation of an information architecture in an information hosting service "on premise" or in the Cloud, which enables data collection, communication between devices, and the generation of control actions in real time.
+- The design and implementation of an information architecture in an information hosting service in the Cloud, which enables data collection, communication between devices, and the generation of control actions in real time.
 - Programming, interconnection and commissioning of devices that, within the home automation network, implement specific functionalities for data acquisition, actuator control and information generation for network services.
 Analysis of requirements, planning and administration of the execution process of the implementation of the home automation system described above.
     
