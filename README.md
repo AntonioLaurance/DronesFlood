@@ -43,9 +43,9 @@
 <!-- PROJECT'S MOTIVATION -->
 ## Motivation
 
-Since the Industrial Revolution, a process that took place around the 18th and 19th centuries, the global average temperature has had a rapid increase that, although sounds insignificant, has severe impacts on our environment and on the way in which the future will probably go on (if it does). This *"insignificant"* growth of a little more than 1 degree Celsius, in fact, has triggered the [warmest](https://www.nrdc.org/stories/global-warming-101) of times in all of human history.
+Since the Industrial Revolution, a process that took place around the 18th and 19th centuries, the global average temperature has had a rapid increase that, although insignificant at first glance, has severely impacted our environment and how the future will probably go on (if it does). This *"insignificant"* growth of a little more than 1 degree Celsius, in fact, has triggered the [warmest](https://www.nrdc.org/stories/global-warming-101) of times in all of human history.
 
-You might be wondering: How will a warmer world affect me? Well, it's simple. Rising temperatures are worsening something we all fear: natural disasters, which at the same tiem longer and hotter heat waves, worse and more frequent droughts, unimaginably powerful hurricanes, and of course, more intense and uncontrollable rains.
+You might be wondering: How will a warmer world affect me? Well, it is simple. Rising temperatures are worsening something we all fear: natural disasters, which at the same time, are more prolonged and hotter heat waves, worse and more frequent droughts, unimaginably powerful hurricanes, and of course, heavier and uncontrollable rains.
 
 <div align="center">
     <img src="fig/monterreyFlood.png" width="500">
@@ -57,7 +57,7 @@ You might be wondering: How will a warmer world affect me? Well, it's simple. Ri
     </p>
 </div>
 
-In addition, this warmer climate has another collateral effect, which is the rise in sea level, an additional consequence that although is mainly caused by global warming, its two main causes are the expansion of sea water (a phenomenon that occurs when it gets warm) and of course, the added water from melting ice caps and glaciers, thus, having a total average sea level rise since 1993 of [102.5 mm](https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.).
+In addition, this warmer climate has another collateral effect, which is the rise in sea level, an additional consequence that, although is mainly caused by global warming, its two leading causes are the expansion of seawater (a phenomenon that occurs when it gets warm) and of course, the added water from melting ice caps and glaciers, thus, having a total average sea level rise since 1993 of [102.5 mm](https://climate.nasa.gov/vital-signs/sea-level/#:~:text=Global%20sea%20levels%20are%20rising,of%20seawater%20as%20it%20warms.).
 
 <div align="center">
     <img src="fig/seaLevel.png" width="500">
@@ -69,9 +69,9 @@ In addition, this warmer climate has another collateral effect, which is the ris
     </p>
 </div>
     
-Every year, these natural disasters devastate millions of people, numerous communities, and even entire societies worldwide. Evidently, the consequences of diasters are bigger when talking about countries in current development. Taking this into consideration, both [Mexico and Brazil](https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/fellow_graduate_student_working_papers/043.pdf) are regions that should prioritize the creation and optimization of protocols, systems and even engineering solutions as an imperative prevention for any unconventional event, as these are countries that lie within  one of the world’s most active seismic regions; prone to constant droughts and in the path of hurricanes and tropical storms originating in the Caribbean Sea, Atlantic and Pacific Oceans. Indeed, this wide geographic exposure renders that a high share of the country’s population may be at hazard risk.
+Every year, these natural disasters devastate millions of people, numerous communities, and even entire societies worldwide. Evidently, the consequences of disasters are more significant when talking about countries in current development. Taking this into consideration, both [Mexico and Brazil](https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/fellow_graduate_student_working_papers/043.pdf) are regions that should prioritize the creation and optimization of protocols, systems and even engineering solutions as imperative prevention for any unconventional event, as these are countries that lie within one of the world's most active seismic regions; prone to constant droughts and in the path of hurricanes and tropical storms originating in the Caribbean Sea, Atlantic and Pacific Oceans. Indeed, this broad geographic exposure renders that a high share of the country's population may be at hazard risk.
     
-Hence, it is highly important to develop a effective network that can provide internet access to people affected by any disaster so that they can communicate with emergency services even in the case that a communication shortage occurs, increase survival rates after simmilar incidents, quickly mitigate dangers to a region's population, and even help prevent greater catastrophes. Thus, the engineering of a proposal that incorporates a holistic approach and integral implementation of the Internet of Things as an advanced automation and analytics system that mainly incorporates drone networking, electronic and hardware connections, and cloud messaging through brokers and servers become fundamental to the construction of a robust, complete and resilient telecommunication infrastructure capable of sustaining emergency services in natural incidents. As a consequence, the motivation to work in a diverse group of engineers that aim to tackle one of the most frequent and important challenges of Latin American societies grows and fuels the technological development required to innovate and connect humanity in the most needed of times, once again demonstrating our endurance, strength, empathy and willingness to thrive.
+Hence, it is crucial to develop an effective network that can provide internet access to people affected by any disaster so that they can communicate with emergency services even in the case that a communication shortage occurs, increase survival rates after similar incidents, quickly mitigate dangers to a region's population, and even help prevent greater catastrophes. Thus, the engineering of a proposal that incorporates a holistic approach and integral implementation of the Internet of Things as an advanced automation and analytics system that mainly incorporates drone networking, electronic and hardware connections, and cloud messaging through brokers and servers become fundamental to the construction of a robust, complete and resilient telecommunication infrastructure capable of sustaining emergency services in natural incidents. As a consequence, the motivation to work in a diverse group of engineers that aim to tackle one of the most frequent and significant challenges of Latin American societies grows and fuels the technological development required to innovate and connect humanity in the most needed of times, once again demonstrating our endurance, strength, empathy, and willingness to thrive.
 
 <div align="center">
     <img src="fig/droneFleet.png" width="500">
@@ -88,7 +88,9 @@ Hence, it is highly important to develop a effective network that can provide in
 <!-- PROJECT'S OBJECTIVES -->
 ## Objectives
 
-Taking into account what was said above, and after analyzing the various existing alternatives to carry out this solution, we have opted for its implementation based on the multistage architecture of the Internet of Things (IoT), in which it is considered the most efficient way, first, the collection of data, and then, the processing of this data and decision making based on a model which consists of 4 stages. These 4 stages are sensors and actuators, IoT Gateway, Edge IT, Cloud, which respectively obtain, react, aggregate, pre-process and process data extremely efficiently.
+Taking into account the above information and after analyzing the various existing alternatives to carry out this solution, it is easy to determine that the main objective of this project is to **successfully let people in need reach out the adequate rescue and support resources with very high time efficiency and quality through engineering and the Internet of Things to help mitigate the adverse human consequences of natural disasters**. 
+    
+Thus, by aiming to work on the correct implementation of the multistage architecture of the Internet of Things (IoT), it will also be essential to focus on the collection of data, data processing, and decision-making based on a 4-stage model that includes actuators, an IoT Gateway, Edge IT, and Cloud that efficiently obtain, react, aggregate, pre-process, and process data.
 
 <div align="center">
     <img src="fig/iotArchitecture.png" width="500">
@@ -100,7 +102,7 @@ Taking into account what was said above, and after analyzing the various existin
     </p>
 </div>
 
-For this implementation, as a team of developers, we will jointly build a native Android transaction-based mobile application capable of obtaining information from the victims of the flood, such as the severity, a short message describing their situation and, of course, their exact location. Of course, this is where the drones take place, because as we can all conclude, Internet access will be very poor or impossible, drones being a method of providing a few minutes of Internet access to know where the victims are and how serious their condition is.
+For this implementation, as a team of developers, we will jointly need to build a native Android transaction-based mobile application capable of obtaining information from the victims, such as the severity of their condition, a short message describing their situation, and their exact location. Of course, this is where the drones will take place, as Internet access will be very poor or impossible after an adverse natural event, so drones will represent a method of providing life-saving opportunities to affected communities.
 
 <div align="center">
     <img src="fig/uiAndroid.png" width="250">
@@ -112,7 +114,7 @@ For this implementation, as a team of developers, we will jointly build a native
     </p>
 </div>
 
-The backbone of this project is the IoT protocol the solution relies on, given that, a very limited quantity of resources is at reach of the victims. In this case, the protocol used is the MQTT Broker, a protocol that is very lightweight and uses almost no energy at all, capable of machine to machine (M2M) communications neccesary for this context. In addittion, to implement this, as a team, we decided to use the open-source implementation of this protocol whose name is Eclipse-Mosquitto, an implementation capable of connecting huge servers and limited smartphones, which allows us to use various network configurations depending on our necesities, being useful in this case, a bridge mode, which distiguishes from a local broker (drones) and a central broker (the server/virtual machine).
+The backbone of this project is the IoT protocol the solution relies on, given that a minimal quantity of resources is within reach of the victims. In this case, the targeted protocol to be used is MQTT, which is very lightweight and uses almost no energy, capable of handling the machine-to-machine (M2M) communications necessary for this context. Consequently, we have proposed ourselves to use the open-source implementation of the protocol with Eclipse-Mosquitto, which will additionally be capable of connecting massive servers with limited smartphones, allowing us to use various network configurations and adapt to the different conditions of devastating events. In this context, it will also be helpful to incorporate a bridge mode that distinguishes between a local broker (drones) and a central broker (the server/virtual machine).
 
 <div align="center">
     <img src="fig/mqttProtocol.png" width="500">
@@ -124,9 +126,7 @@ The backbone of this project is the IoT protocol the solution relies on, given t
     </p>
 </div>
 
-Once the communication between devices is resolved, it is important to consider how the data will be stored and then managed, in order to give the victims the best possible solution to their complicated situation. Regarding data storage, we will design and implement a relational database using the well-known MySQL DBMS that will receive the information generated by the victims through their smartphones, which, after being properly formatted, will be stored. Once this step is completed successfully, the database will be connected to a web application that will function as a dashboard that displays all the relevant information to the rescue forces to facilitate the deployment of a successful strategy capable of helping those in need the the most.
-
-Finally, to fully test the capabilities of our solution, we have decided to implement both emulated and the real nodes to generate an then process, store and display their information. This process will use the Mininet-WiFi Network emulator, as well as some Python scripts that will jointly serve as nodes that emulate real people sharing their location, status, and a message. And then, we will use a real node based on an Android phone using the developed mobile application, which, like the emulated nodes, will send its location, status and a short message.
+Finally, to thoroughly test the capabilities of our solution, we have decided to implement both emulated and actual nodes to generate and then process, store and display their information. This process will use the Mininet-WiFi Network emulator and some Python scripts that will jointly serve as nodes that emulate real people sharing their location, status, and message. Then, we will use a real node based on an Android phone using a developed mobile application, which, like the emulated nodes, will send its location, status, and a short message for the best emergency service attention.
 
 <div align="center">
     <img src="fig/architectureDroneNetwork.png" width="500">
@@ -172,8 +172,8 @@ In order to achieve the best results in the implementation of this challenge's s
 
 - The development of a system of digital devices based on 5 microcontrollers, interconnected in a data network and programmed for the exchange of information through the MQTT communication protocol.
 - The design and implementation of an information architecture in an information hosting service in the Cloud, which enables data collection, communication between devices, and the generation of control actions in real time.
-- Programming, interconnection and commissioning of devices that, within the home automation network, implement specific functionalities for data acquisition, actuator control and information generation for network services.
-Analysis of requirements, planning and administration of the execution process of the implementation of the home automation system described above.
+- The programming, interconnection and controling of devices that enables data acquisition, actuator control and information generation for network services.
+- The analysis of specifications, planning and administration of the execution process of the implementation of networks and device-inteconnections for a real-life application.
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
