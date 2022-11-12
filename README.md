@@ -30,9 +30,9 @@
     <ol>
         <li><a href="#motivation">Motivation</a></li>
         <li><a href="#objectives">Objectives</a></li>
-        <li><a href="#learning-goals">Learning Goals</a></li>
-        <li><a href="#especifications">Especifications</a></li>
         <li><a href="#requirement-features">Requirement Features</a></li>
+        <li><a href="#especifications">Especifications</a></li>
+        <li><a href="#learning-goals">Learning Goals</a></li>
         <li><a href="#license">License</a></li>
         <li><a href="#developers">Developers</a></li>
         <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -139,17 +139,16 @@ Finally, to thoroughly test the capabilities of our solution, we have decided to
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+    
+<!-- Features -->
+## Requirement Features
+In order to be more specific and achieve the best results in the implementation of this challenge's solution, several characteristics and requirements need to be considered, including:
 
-<!-- Learning Goals -->
-## Learning Goals
-
-- Design, elaborate and analyse digital systems based upon the Internet of Things networks and environments.
-- Design and develop databases for the analysis of real-life applications of hard data.
-- Implement the management of a computer system's resources as a fundament for the development of engineering projects.
-- Incorporate principles of Interactive Design to optimize engineering solutions.
-- Build up expertise for the correct and integral Project and Process Management requirements to sustain technical developments.
-- Generate international experiences in the GSL initiative.
-
+- The development of a system of digital devices based on 5 microcontrollers, interconnected in a data network and programmed for the exchange of information through the MQTT communication protocol.
+- The design and implementation of an information architecture in an information hosting service in the Cloud, which enables data collection, communication between devices, and the generation of control actions in real time.
+- The programming, interconnection and controling of devices that enables data acquisition, actuator control and information generation for network services.
+- The analysis of specifications, planning and administration of the execution process of the implementation of networks and device-inteconnections for a real-life application.
+    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ESPECIFICATIONS -->
@@ -165,18 +164,18 @@ Finally, to thoroughly test the capabilities of our solution, we have decided to
 <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" width="150px">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Features -->
-## Requirement Features
-In order to achieve the best results in the implementation of this challenge's solution, several characteristics and requirements need to be considered, including:
-
-- The development of a system of digital devices based on 5 microcontrollers, interconnected in a data network and programmed for the exchange of information through the MQTT communication protocol.
-- The design and implementation of an information architecture in an information hosting service in the Cloud, which enables data collection, communication between devices, and the generation of control actions in real time.
-- The programming, interconnection and controling of devices that enables data acquisition, actuator control and information generation for network services.
-- The analysis of specifications, planning and administration of the execution process of the implementation of networks and device-inteconnections for a real-life application.
     
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- Learning Goals -->
+## Learning Goals
 
+- Design, elaborate and analyse digital systems based upon the Internet of Things networks and environments.
+- Design and develop databases for the analysis of real-life applications of hard data.
+- Implement the management of a computer system's resources as a fundament for the development of engineering projects.
+- Incorporate principles of Interactive Design to optimize engineering solutions.
+- Build up expertise for the correct and integral Project and Process Management requirements to sustain technical developments.
+- Generate international experiences in the GSL initiative.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
