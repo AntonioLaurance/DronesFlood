@@ -148,6 +148,7 @@ Finally, to fully test the capabilities of our solution, we have decided to impl
 - Implement the management of a computer system's resources as a fundament for the development of engineering projects.
 - Incorporate principles of Interactive Design to optimize engineering solutions.
 - Build up expertise for the correct and integral Project and Process Management requirements to sustain technical developments.
+- Generate international experiences in the GSL initiative.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,6 +189,8 @@ Distributed under the GNU General Public License (GPL). See [license](https://gi
 <!--  DEVELOPERS & CONTACT-->
 ## Developers
 
+From [Tecnológico de Monterrey](https://www.tec.mx/)
+
 <div align="center">
     <img src="fig/tecDevs.png" width="500">
 </div>
@@ -198,8 +201,13 @@ Distributed under the GNU General Public License (GPL). See [license](https://gi
 - Juan Francisco Sánchez Sánchez - [GitHub](https://github.com/FranciscoSanchezz) - [Mail](mailto:a01656793@tec.mx)
 - Jorge Diego Martell Fernández - [GitHub](https://github.com/A01661436) - [Mail](a01661436@tec.mx)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+In collaboration with [Instituto Tecnológico de Aeronáutica](http://www.ita.br)
 
+- Guilherme Goulart Kowalczuk - [GitHub](https://github.com/kowalks) - [Mail](mailto:guilherme.kowalczuk@ga.ita.br)
+- Kenji de Souza Yamane - [GitHub](https://github.com/kenji-yamane) - [Mail](mailto:kenji.yamane@ga.ita.br)
+- Yuri Gama de Araújo - [GitHub](https://github.com/yuri-gama) - [Mail](mailto:yuri.araujo@ga.ita.br)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
