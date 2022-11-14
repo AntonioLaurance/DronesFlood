@@ -7,8 +7,6 @@ from paho.mqtt import client as mqtt_client
 broker = '20.219.162.228'
 port = 1883 
 top_temp = "srv/temperature"
-top_hum = "srv/humidity"
-
 
 client_id = f'python-mqtt- {random.randit(0, 1000)}'
 
