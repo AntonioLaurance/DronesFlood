@@ -6,7 +6,6 @@ from paho.mqtt import client as mqtt_client
 
 broker = '20.219.162.228'
 port = 1883 
-top_temp = "srv/temperature"
 top_hum = "srv/humidity"
 
 
@@ -29,7 +28,7 @@ def connect_mqtt():
 
 
 def publish(client,topic,msg):
-    result = client.publish(topic, msg)
+    result = client.publish(topic, msg, qos=2)
     # result: [0,1]
     status = result[0]
     if status ==0:
