@@ -30,6 +30,7 @@ class App extends Component {
       port: 0,
       severity: '',
     };
+
     // client.onConnectionLost = this.onConnectionLost;
     // client.onMessageArrived = this.onMessageArrived;
   }
@@ -55,7 +56,45 @@ class App extends Component {
   };
 
   connect = () => {
-    // TODO: connect
+    //the host to which we want to connect
+    const host = this.state.ip;
+
+    //port number the host is listening to
+    const port = this.state.port;
+
+    console.log(this.state.ip + ":" + this.state.port)
+
+    //our topic to publish and receive message
+    const topic = "srv/temperature";
+
+    try{
+      // create a client instance,
+      // "" is client id, if empty string is passed a random client id will be generated
+      let client = new Paho.MQTT.Client(host, Number(port), "client_id");
+
+      // will be called when new message arrives
+      client.onMessageArrived = onMessage;
+
+      //when connection is lost
+      client.onConnectionLost = function(){document.write('Connection lost')};
+
+      // lets connect the client
+      client.connect({
+        onSuccess : () => {
+          console.log("connected");
+
+          // subscribe to the topic, we will publish message to this topic
+          client.subscribe(topic);
+        },
+        onFailure : () => {
+          console.log("failed to connect");
+        }
+      });
+    }
+    catch(err){
+      console.log("Not connected!");
+      console.log(err);
+    }
   };
 
   unSubscribeTopic = () => {
@@ -63,7 +102,17 @@ class App extends Component {
   };
 
   sendMessage = () => {
-    // TODO: sendMessage
+    //get message form input box
+    let contentMsg = this.state.port + ':' + this.state.severity + ':-23.22488,-45.232'
+
+    //prepare the payload
+    let data = JSON.stringify({contentMsg});
+    let mgs = new Paho.MQTT.Message(data);
+    mgs.destinationName = topic;
+
+    //publish from here
+    //client.send(contentMsg);
+    console.log(contentMsg);
   };
 
   render() {
