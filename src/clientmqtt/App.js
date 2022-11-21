@@ -4,7 +4,6 @@
 /* @flow */
 import React, {Component} from 'react';
 import {View, Text, StyleSheet, TextInput} from 'react-native';
-
 import {Button} from '@rneui/base';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import init from 'react_native_mqtt';
@@ -18,6 +17,7 @@ init({
 });
 
 class App extends Component {
+
   constructor(props) {
     super(props);
     this.state = {
@@ -32,14 +32,14 @@ class App extends Component {
     };
 
     var lastMsg;
-    client.onConnectionLost = this.onConnectionLost;
-    client.onMessageArrived = this.onMessageArrived;
+
   }
 
   onConnectionLost = (responseObject) => {
     if (responseObject.errorCode !== 0) {
         console.log("onConnectionLost: " + responseObject.errorMessage);
     }
+    return -1;
   };
 
   onMessageArrived = (message) => {
@@ -65,7 +65,6 @@ class App extends Component {
     try{
       // create a client instance,
       // "" is client id, if empty string is passed a random client id will be generated
-      //client = new Paho.MQTT.Client(host, Number(port), "client_id");
       client = new Paho.MQTT.Client(this.state.ip, Number(this.state.port), "client_id");
 
       //when connection is lost
@@ -80,7 +79,10 @@ class App extends Component {
           console.log("connected");
 
           // subscribe to the topic, we will publish message to this topic
-          this.onConnect();
+          client.subscribe(this.state.topic);
+          client.onConnectionLost = this.onConnectionLost;
+          client.onMessageArrived = this.onMessageArrived;
+
         },
         onFailure : () => {
           console.log("failed to connect");
@@ -98,7 +100,7 @@ class App extends Component {
 
   sendMessage = () => {
     //get message form input box
-    let contentMsg = 1 + ':' + this.state.severity + ':-23.22488,-45.232'
+    let contentMsg = 1 + ':' + this.state.severity + ':' + '-42.1233,99.1232';
 
     //prepare the payload
     let data = JSON.stringify({contentMsg});
@@ -107,10 +109,17 @@ class App extends Component {
 
     //publish from here
     client.send(mgs);
-    console.log(contentMsg);
   };
 
+  keepSendingMessage = () => {
+    var interval;
+    clearInterval(interval);
+    this.sendMessage;
+    interval = setInterval(this.sendMessage, 10000);
+  }
+
   render() {
+
     return (
       <View style={styles.container}>
         <View style={styles.connectContainer}>
@@ -179,7 +188,7 @@ class App extends Component {
         <Button
           type="solid"
           title="UPDATE"
-          onPress={this.sendMessage}
+          onPress={this.keepSendingMessage}
           buttonStyle={{backgroundColor: '#127676'}}
           disabled={!this.state.severity}
         />

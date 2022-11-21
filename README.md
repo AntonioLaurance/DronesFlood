@@ -12,6 +12,7 @@
     </p>
     <a href="https://github.com/AntonioLaurance/DronesFlood/tree/main/src">
         <strong>Explore the source code »</strong>
+    </a> 
 </div>
 <div align="center">
 <p> 
