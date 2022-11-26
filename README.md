@@ -196,7 +196,7 @@ From [Tecnológico de Monterrey](https://www.tec.mx/)
 </div>
 
 - Ricardo Campos Luna - [GitHub](https://github.com/AntonioLaurance) - [Mail](mailto:a01656898@tec.mx)
-- Noemí Abigail Curiel López - [GitHub](https://github.com/AbiCuriel) - [Mail](mailto:01655892@tec.mx)
+- Noemí Abigail Curiel López - [GitHub](https://github.com/AbiCuriel) - [Mail](mailto:a01655892@tec.mx)
 - Moisés Adame Aguilar - [GitHub](https://github.com/MoisesAdame) - [Mail](mailto:a01660927@tec.mx)
 - Juan Francisco Sánchez Sánchez - [GitHub](https://github.com/FranciscoSanchezz) - [Mail](mailto:a01656793@tec.mx)
 - Jorge Diego Martell Fernández - [GitHub](https://github.com/A01661436) - [Mail](a01661436@tec.mx)
