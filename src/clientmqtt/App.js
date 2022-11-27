@@ -27,12 +27,11 @@ class App extends Component {
       messageList: [],
       status: '',
       ip: '',
-      port: 0,
-      severity: '',
+      port: '',
+      severity: 0,
     };
 
     var lastMsg;
-
   }
 
   onConnectionLost = (responseObject) => {
@@ -92,6 +91,7 @@ class App extends Component {
     catch(err){
       console.log("Not connected!!");
     }
+
   };
 
   unSubscribeTopic = () => {
@@ -100,15 +100,26 @@ class App extends Component {
 
   sendMessage = () => {
     //get message form input box
-    let contentMsg = 1 + ':' + this.state.severity + ':' + '-42.1233,99.1232';
+    // let contentMsg = 1 + ':' + this.state.severity + ':' + '-42.1233,99.1232';
+    let la = 19.27 + (Math.random() * 0.03);
+    let lo = -99.122 + (Math.random() * .02)
+    let payload;
+    payload = {
+      "color": this.state.severity,
+      "lat": la,
+      "lon": lo
+    }
 
     //prepare the payload
-    let data = JSON.stringify({contentMsg});
-    let mgs = new Paho.MQTT.Message(data);
+    //let data = JSON.stringify({contentMsg});
+    //let mgs = new Paho.MQTT.Message(data);
+    //mgs.destinationName = this.state.topic;
+    let mgs = new Paho.MQTT.Message(JSON.stringify(payload));
     mgs.destinationName = this.state.topic;
+    client.send(mgs);
 
     //publish from here
-    client.send(mgs);
+    // client.send(mgs);
   };
 
   keepSendingMessage = () => {
@@ -119,7 +130,6 @@ class App extends Component {
   }
 
   render() {
-
     return (
       <View style={styles.container}>
         <View style={styles.connectContainer}>
@@ -165,21 +175,21 @@ class App extends Component {
             <Button
               type="solid"
               title="Low"
-              onPress={e => this.setState({severity: 'Low'})}
+              onPress={e => this.setState({severity: 1})}
               buttonStyle={{backgroundColor: '#72F178', margin: 20}}
               style={styles.severityButtonContainer}
             />
             <Button
               type="solid"
               title="Medium"
-              onPress={e => this.setState({severity: 'Medium'})}
+              onPress={e => this.setState({severity: 2})}
               buttonStyle={{backgroundColor: '#FFF145', margin: 20}}
               style={styles.severityButtonContainer}
             />
             <Button
               type="solid"
               title="High"
-              onPress={e => this.setState({severity: 'High'})}
+              onPress={e => this.setState({severity: 3})}
               buttonStyle={{backgroundColor: '#E21100', margin: 20}}
               style={styles.severityButtonContainer}
             />
