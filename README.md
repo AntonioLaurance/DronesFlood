@@ -142,7 +142,7 @@ Finally, to thoroughly test the capabilities of our solution, we have decided to
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
 <!-- Features -->
-## Requirement Features
+## Solution features
 In order to be more specific and achieve the best results in the implementation of this challenge's solution, several characteristics and requirements need to be considered, including:
 
 - The development of a system of digital devices based on 5 microcontrollers, interconnected in a data network and programmed for the exchange of information through the MQTT communication protocol.
