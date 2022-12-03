@@ -179,7 +179,11 @@ In order to be more specific and achieve the best results in the implementation 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FINAL PROJECT SOLUTION -->
-All the files of the final deliverables and their descriptions are in the repository, which can be found [here](src/clientmqtt/README.md)
+## Final Deliverables
+
+All the files of the final deliverables and their descriptions are in the repository, which can be found [here](src/clientmqtt/README.md).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
