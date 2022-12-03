@@ -6,3 +6,11 @@ using the configuration files shown <a href="https://github.com/AntonioLaurance/
 
 [badge-yt]: ../../fig/watch-the-video-youtube.svg
 [link-yt]: https://youtu.be/NuySUh4Uy1Y
+
+Final presentation video:
+
+[![Youtube Video][badge-yt]][link-yt]
+
+
+[badge-yt]: ../../fig/watch-the-video-youtube.svg
+[link-yt]: https://youtu.be/3q9ScPNGNG4
