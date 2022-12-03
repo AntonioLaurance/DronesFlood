@@ -17,7 +17,7 @@ Final presentation video:
 
 Final Presentation File can be found <a href="https://github.com/AntonioLaurance/DronesFlood/tree/main/src/clientmqtt/iot_presentation.pdf"><strong>here</strong></a>.
 
-<strong> Instructions to execute solution: </strong>:
+<strong> Instructions to execute solution: </strong>
 
 Innitiate virtual machine
 
