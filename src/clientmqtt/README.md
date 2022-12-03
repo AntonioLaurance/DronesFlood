@@ -9,8 +9,8 @@ using the configuration files shown <a href="https://github.com/AntonioLaurance/
 
 Final presentation video:
 
-[![Youtube Video][badge-yt]][link-yt]
+[![Youtube Video][badge-ytr]][link-ytr]
 
 
-[badge-yt]: ../../fig/watch-the-video-youtube.svg
-[link-yt]: https://youtu.be/3q9ScPNGNG4
+[badge-ytr]: ../../fig/watch-the-video-youtube.svg
+[link-ytr]: https://youtu.be/3q9ScPNGNG4
