@@ -16,3 +16,17 @@ Final presentation video:
 [link-ytr]: https://youtu.be/3q9ScPNGNG4
 
 Final Presentation File can be found <a href="https://github.com/AntonioLaurance/DronesFlood/tree/main/src/clientmqtt/iot_presentation.pdf"><strong>here</strong></a>.
+
+<strong> Instructions to execute solution: </strong>:
+Innitiate virtual machine
+
+Run emulator
+1. npm install
+2. npx react-native start
+
+Run broker, subscriber and dashboard
+1. systemctl start grafana
+2. systemctl start nginx
+3. mosquitto -c mosquittoAPPCB -v
+4. mosquito -c mosquittoAPPCB -v
+5. python3 sub.py
