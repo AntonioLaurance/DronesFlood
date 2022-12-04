@@ -13,7 +13,7 @@ Final presentation video:
 
 
 [badge-ytr]: ../../fig/watch-the-video-youtube.svg
-[link-ytr]: https://youtu.be/3q9ScPNGNG4
+[link-ytr]: https://youtu.be/pDTnPRw1F1A
 
 Final Presentation File can be found <a href="https://github.com/AntonioLaurance/DronesFlood/tree/main/src/clientmqtt/iot_presentation.pdf"><strong>here</strong></a>.
 
